@@ -74,14 +74,14 @@ h1, h2, h4 {
     border: 6px solid white;
     border-radius: 12px;
     background: linear-gradient(black,grey);
-    background-image: url("images/Gift-box.webp");
+    background-image: url("Gift-box.webp");
     background-size: cover;
     
     
 }
 
 #gift-img-dancing:hover{
-        background-image: url("images/dancing.webp");
+        background-image: url("dancing.webp");
 
 }
 
@@ -89,24 +89,24 @@ h1, h2, h4 {
 
 
 #gift-img-excited:hover{
-    background-image: url("images/excited.webp")
+    background-image: url("excited.webp")
 }
 
 
 
 
 #gift-img-amazing:hover{
-    background-image: url("images/amazing.webp")
+    background-image: url("amazing.webp")
 }
 
 
 
 #gift-img-nobody:hover{
-    background-image: url("images/nobody.webp")
+    background-image: url("nobody.webp")
 }
 
 #gift-img-cheers:hover {
-    background-image: url("images/cheers.webp");
+    background-image: url("cheers.webp");
 }
 
 #footer{
